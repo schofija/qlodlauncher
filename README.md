@@ -11,7 +11,7 @@ Level of detail (LOD) Tweaker for all DirectX 9 or lower games that don't block 
 
 ## how to use:
 <ol> 
-  <li> Download the executable files [here](https://cdn.discordapp.com/attachments/330167370159226891/1159299635647631410/net6.0-windows.zip?ex=653084eb&is=651e0feb&hm=653fe4473885475cad6a4c026d7add6a40b518ede95f22d19cccf62aa05f9b19&). </li>
+  <li> Download the executable files <a href="https://cdn.discordapp.com/attachments/330167370159226891/1159299635647631410/net6.0-windows.zip?ex=653084eb&is=651e0feb&hm=653fe4473885475cad6a4c026d7add6a40b518ede95f22d19cccf62aa05f9b19&">here</a>. </li>
   <li> Run qlodlauncher.exe *as an administrator*. </li>
   <li> Toggle the LOD tweak with the Enable/Disable buttons. </li>
 </ol>
