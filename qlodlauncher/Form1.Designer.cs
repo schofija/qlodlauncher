@@ -110,16 +110,15 @@
             label2.Font = new Font("Cascadia Mono", 9F, FontStyle.Regular, GraphicsUnit.Point);
             label2.Location = new Point(319, 0);
             label2.Name = "label2";
-            label2.Size = new Size(105, 16);
+            label2.Size = new Size(0, 16);
             label2.TabIndex = 6;
-            label2.Text = "made by zyehac";
             label2.Click += label2_Click;
             // 
             // label3
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Cascadia Mono", 9F, FontStyle.Regular, GraphicsUnit.Point);
-            label3.Location = new Point(319, 16);
+            label3.Location = new Point(319, 0);
             label3.Name = "label3";
             label3.Size = new Size(105, 16);
             label3.TabIndex = 7;
